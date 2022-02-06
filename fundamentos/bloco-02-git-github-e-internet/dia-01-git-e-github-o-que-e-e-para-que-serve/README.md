@@ -10,3 +10,4 @@ Os requisitos dos exercí­cios são:
 2. //EDITAR
 
 3. //EDITAR4. ////EDITAR
+5. EDITAR
